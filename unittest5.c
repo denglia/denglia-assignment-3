@@ -6,7 +6,7 @@
 #include "rngs.h"
 #include <stdlib.h>
 
-//baron test
+//mine test
 int main(){
   int num_player = 2;
   int seed = 1000;
